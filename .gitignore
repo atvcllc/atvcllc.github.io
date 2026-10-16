@@ -1,0 +1,6 @@
+WEBSITE-PLAN.md
+DNS-SETUP.md
+.preview/
+__pycache__/
+.DS_Store
+Thumbs.db
