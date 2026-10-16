@@ -1,6 +1,6 @@
 # ATVC LLC
 
-A simple informational coming-soon website for ATVC LLC, specializing in value creation in consumer businesses and based on Long Island, New York.
+A simple informational coming-soon website for ATVC LLC, specializing in value creation for consumer businesses and based in Fire Island Pines, NY.
 
 ## Preview
 
